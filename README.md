@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Refactor Starter Code
 
 ## Description
 
